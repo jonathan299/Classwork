@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\jvasquez castillo\Desktop\2019-10-4-classwork\2019-10-4-classwork\Main.cpp(13,52): error C2143:  syntax error: missing ')' before '/'
+C:\Users\jvasquez castillo\Desktop\2019-10-4-classwork\2019-10-4-classwork\Main.cpp(13,50): error C2064:  term does not evaluate to a function taking 0 arguments
+C:\Users\jvasquez castillo\Desktop\2019-10-4-classwork\2019-10-4-classwork\Main.cpp(13,83): error C2059:  syntax error: ')'
+C:\Users\jvasquez castillo\Desktop\2019-10-4-classwork\2019-10-4-classwork\Main.cpp(14,99): warning C4305:  'initializing': truncation from 'double' to 'float'
+C:\Users\jvasquez castillo\Desktop\2019-10-4-classwork\2019-10-4-classwork\Main.cpp(22,10): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
